@@ -1,5 +1,4 @@
-{
-  "articles": [
+[
     {
       "id": 1,
       "title": "The Importance of Learning Programming",
@@ -15,5 +14,5 @@
       "title": "Time Management for Students",
       "content": "Effective time management is a crucial skill for students aiming to balance academic responsibilities with personal life. By organizing tasks, setting priorities, and allocating specific time slots for studying, students can reduce stress and improve productivity. Developing a consistent routine helps in maintaining focus and avoiding last-minute pressure. Moreover, incorporating breaks and leisure activities ensures mental well-being, making the learning process more sustainable and enjoyable over time."
     }
-  ]
-}
+]
+
