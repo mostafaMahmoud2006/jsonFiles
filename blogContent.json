@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "The Importance of Learning Programming",
+      "content": "Learning programming has become an essential skill in the modern world, not only for those pursuing careers in technology but also for individuals in various other fields. It enhances problem-solving abilities by encouraging logical thinking and structured approaches to complex issues. As digital systems continue to dominate industries, understanding how software works allows people to interact more effectively with technology and even create their own tools. This knowledge fosters independence and innovation, empowering individuals to transform ideas into practical solutions."
+    },
+    {
+      "id": 2,
+      "title": "The Role of Technology in Education",
+      "content": "Technology has significantly transformed the educational landscape by making learning more accessible, interactive, and personalized. Online platforms, digital resources, and virtual classrooms have removed geographical barriers, allowing students from different parts of the world to access high-quality education. Additionally, tools such as simulations and multimedia content help simplify complex concepts and improve student engagement. However, the integration of technology also requires careful planning to ensure that it supports learning objectives without causing distraction or dependency."
+    },
+    {
+      "id": 3,
+      "title": "Time Management for Students",
+      "content": "Effective time management is a crucial skill for students aiming to balance academic responsibilities with personal life. By organizing tasks, setting priorities, and allocating specific time slots for studying, students can reduce stress and improve productivity. Developing a consistent routine helps in maintaining focus and avoiding last-minute pressure. Moreover, incorporating breaks and leisure activities ensures mental well-being, making the learning process more sustainable and enjoyable over time."
+    }
+  ]
+}
